@@ -26,7 +26,7 @@ def sozluk_olustur(tumkelimeler):
     return kelimesayisi
 
 puanlama = {}
-Arama = input('Arama: ')
+Arama = input('Arama:  ')
 puan = 0
 
 while True:
